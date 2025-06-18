@@ -1,0 +1,17 @@
+/Users/ralf/Desktop/Gustavo/API/bin/Debug/net9.0/API
+/Users/ralf/Desktop/Gustavo/API/bin/Debug/net9.0/API.deps.json
+/Users/ralf/Desktop/Gustavo/API/bin/Debug/net9.0/API.runtimeconfig.json
+/Users/ralf/Desktop/Gustavo/API/bin/Debug/net9.0/API.dll
+/Users/ralf/Desktop/Gustavo/API/bin/Debug/net9.0/API.pdb
+/Users/ralf/Desktop/Gustavo/API/bin/Debug/net9.0/Newtonsoft.Json.dll
+/Users/ralf/Desktop/Gustavo/API/obj/Debug/net9.0/API.csproj.AssemblyReference.cache
+/Users/ralf/Desktop/Gustavo/API/obj/Debug/net9.0/API.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ralf/Desktop/Gustavo/API/obj/Debug/net9.0/API.AssemblyInfoInputs.cache
+/Users/ralf/Desktop/Gustavo/API/obj/Debug/net9.0/API.AssemblyInfo.cs
+/Users/ralf/Desktop/Gustavo/API/obj/Debug/net9.0/API.csproj.CoreCompileInputs.cache
+/Users/ralf/Desktop/Gustavo/API/obj/Debug/net9.0/API.csproj.Up2Date
+/Users/ralf/Desktop/Gustavo/API/obj/Debug/net9.0/API.dll
+/Users/ralf/Desktop/Gustavo/API/obj/Debug/net9.0/refint/API.dll
+/Users/ralf/Desktop/Gustavo/API/obj/Debug/net9.0/API.pdb
+/Users/ralf/Desktop/Gustavo/API/obj/Debug/net9.0/API.genruntimeconfig.cache
+/Users/ralf/Desktop/Gustavo/API/obj/Debug/net9.0/ref/API.dll

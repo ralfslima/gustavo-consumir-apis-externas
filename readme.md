@@ -27,3 +27,5 @@ Este projeto utiliza a API pública do ViaCEP para consultar informações sobre
 - **System.Net.Http**: Biblioteca padrão do .NET para fazer requisições HTTP.
   - Este pacote já vem incluso no .NET, então não precisa ser instalado separadamente.
 
+## Link da aula
+- [Clique aqui](https://youtu.be/e2GSxhS1eaU)
